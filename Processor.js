@@ -1,7 +1,7 @@
 
 class Processor{
 
-    static process(data){
+    static Process(data){
         let dataFormat = data.split("\r\n")
         let row = [];
 

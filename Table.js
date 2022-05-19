@@ -1,6 +1,6 @@
 class Table{
     constructor(arr){
-        this.headers = arr[0];
+        this.header = arr[0];
         this.rows = arr.slice(1, arr.length);
     }
 
